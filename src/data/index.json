@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "title": "Home",
+    "description": "Descrição da home"
+  },
+  "main-content": {
+    "title": "Article",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur laudantium, nostrum dicta adipisci, temporibus blanditiis, quidem officiis veniam debitis quos alias quibusdam ullam est quae iste omnis reprehenderit sequi pariatur!"
+  },
+  "main-sidebar": {
+    "title": "Aside",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur laudantium, nostrum dicta adipisci, temporibus blanditiis, quidem officiis veniam debitis quos alias quibusdam ullam est quae iste omnis reprehenderit sequi pariatur!"
+  }
+}

@@ -1,0 +1,19 @@
+---
+title: <%= index.meta.title %>
+description: <%= index.meta.decription %>
+---
+{{#extend "default"}}
+{{#content "main"}}
+
+<article>
+  <h1>{{index.main-content.title}}</h1>
+  <p>{{index.main-content.content}}</p>
+</article>
+
+<aside>
+  <h3>{{index.main-sidebar.title}}</h3>
+  <p>{{index.main-sidebar.content}}</p>
+</aside>
+
+{{/content}}
+{{/extend}}
